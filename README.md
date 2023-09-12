@@ -1,1 +1,1 @@
-# O presente projeto visa coletar os números de inscrições das farmácias dos respectivos estados.
+The present project aims to collect the registration numbers of pharmacies in the respective states.
